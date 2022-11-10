@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @salehadin ... salehadin Nuredin Shifa
 - 👀 I’m interested in ... coding and solving problems.
 - 🌱 I’m currently learning ...software engneering at alx-africa
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Github
 - 📫 How to reach me ...salanur5656@gmail.com
 
 <!---
